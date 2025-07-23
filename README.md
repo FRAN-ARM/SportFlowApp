@@ -1,9 +1,9 @@
-Si vas a ejecutarlo, sigue estos 4 mandamientos:
+If you're going to run it, follow these four commandments:
 
-1. Limpiar la solucion.
-2. "Build".
+1. Clean the solution.
+2. Build.
 3. T4 Transform.
-4. Ejecuta.
+4. Run.
 
 <img width="382" height="311" alt="image" src="https://github.com/user-attachments/assets/e74b5474-4502-46ee-bd30-afcf2de5e3dc" />
 
