@@ -1,4 +1,4 @@
-If you're going to run it, follow these four commandments:
+If you want to run it, follow these four commandments:
 
 1. Clean the solution.
 2. Build.
